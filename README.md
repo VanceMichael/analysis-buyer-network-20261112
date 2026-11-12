@@ -13,7 +13,7 @@ left/right 是脱敏机构键，amount 为非负合作规模。
 npm ci --ignore-scripts --no-audit --no-fund --offline
 npm run build
 npm test
-npm start
+npm run summary
 node src/cli.js inspect --input data/records.json
 node src/cli.js summary --input data/records.json --out var/summary.json
 npm run demo
