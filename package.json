@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "node --test",
-    "build": "node --check src/cli.js && node --check src/domain.js && node --check src/dataset.js && node --check src/output.js",
+    "build": "node --check src/cli.js && node --check src/domain.js && node --check src/dataset.js && node --check src/output.js && node --check src/rng.js && node --check src/graph.js && node --check src/community.js && node --check src/bridges.js && node --check src/nullmodel.js && node --check src/analysis.js",
     "summary": "node src/cli.js summary",
     "demo": "node scripts/demo.js"
   }

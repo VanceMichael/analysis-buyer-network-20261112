@@ -1,0 +1,1153 @@
+{
+  "archiveFingerprint": "64968687ff4ae7bc17e5ebdac85f3a8325282568d37205f79d694b86b5078c77",
+  "archiveVersion": 1,
+  "bridgeProfile": {
+    "crossEdgeCount": 12,
+    "crossEdges": [
+      {
+        "communities": [
+          "C01",
+          "C02"
+        ],
+        "edgeBetweenness": 3.666667,
+        "endpoints": [
+          "n0",
+          "n3"
+        ],
+        "key": "n0\u0001n3",
+        "parallelCount": 2,
+        "periods": [
+          2,
+          3
+        ],
+        "recordIds": [
+          "r0024",
+          "r0060"
+        ],
+        "relations": [
+          "supply"
+        ],
+        "topologicalBridge": false
+      },
+      {
+        "communities": [
+          "C01",
+          "C02"
+        ],
+        "edgeBetweenness": 3.666667,
+        "endpoints": [
+          "n11",
+          "n2"
+        ],
+        "key": "n11\u0001n2",
+        "parallelCount": 2,
+        "periods": [
+          2,
+          3
+        ],
+        "recordIds": [
+          "r0035",
+          "r0071"
+        ],
+        "relations": [
+          "cooperation"
+        ],
+        "topologicalBridge": false
+      },
+      {
+        "communities": [
+          "C01",
+          "C02"
+        ],
+        "edgeBetweenness": 3.666667,
+        "endpoints": [
+          "n1",
+          "n10"
+        ],
+        "key": "n1\u0001n10",
+        "parallelCount": 2,
+        "periods": [
+          2,
+          3
+        ],
+        "recordIds": [
+          "r0034",
+          "r0070"
+        ],
+        "relations": [
+          "supply"
+        ],
+        "topologicalBridge": false
+      },
+      {
+        "communities": [
+          "C01",
+          "C02"
+        ],
+        "edgeBetweenness": 3.666667,
+        "endpoints": [
+          "n4",
+          "n7"
+        ],
+        "key": "n4\u0001n7",
+        "parallelCount": 2,
+        "periods": [
+          2,
+          3
+        ],
+        "recordIds": [
+          "r0028",
+          "r0064"
+        ],
+        "relations": [
+          "supply"
+        ],
+        "topologicalBridge": false
+      },
+      {
+        "communities": [
+          "C01",
+          "C02"
+        ],
+        "edgeBetweenness": 3.666667,
+        "endpoints": [
+          "n5",
+          "n8"
+        ],
+        "key": "n5\u0001n8",
+        "parallelCount": 2,
+        "periods": [
+          2,
+          3
+        ],
+        "recordIds": [
+          "r0029",
+          "r0065"
+        ],
+        "relations": [
+          "cooperation"
+        ],
+        "topologicalBridge": false
+      },
+      {
+        "communities": [
+          "C01",
+          "C02"
+        ],
+        "edgeBetweenness": 3.666667,
+        "endpoints": [
+          "n6",
+          "n9"
+        ],
+        "key": "n6\u0001n9",
+        "parallelCount": 2,
+        "periods": [
+          2,
+          3
+        ],
+        "recordIds": [
+          "r0030",
+          "r0066"
+        ],
+        "relations": [
+          "supply"
+        ],
+        "topologicalBridge": false
+      },
+      {
+        "communities": [
+          "C01",
+          "C02"
+        ],
+        "edgeBetweenness": 2.666667,
+        "endpoints": [
+          "n0",
+          "n2"
+        ],
+        "key": "n0\u0001n2",
+        "parallelCount": 3,
+        "periods": [
+          1,
+          3,
+          4
+        ],
+        "recordIds": [
+          "r0012",
+          "r0048",
+          "r0084"
+        ],
+        "relations": [
+          "supply"
+        ],
+        "topologicalBridge": false
+      },
+      {
+        "communities": [
+          "C01",
+          "C02"
+        ],
+        "edgeBetweenness": 2.666667,
+        "endpoints": [
+          "n1",
+          "n11"
+        ],
+        "key": "n1\u0001n11",
+        "parallelCount": 3,
+        "periods": [
+          1,
+          3,
+          4
+        ],
+        "recordIds": [
+          "r0023",
+          "r0059",
+          "r0095"
+        ],
+        "relations": [
+          "cooperation"
+        ],
+        "topologicalBridge": false
+      },
+      {
+        "communities": [
+          "C01",
+          "C02"
+        ],
+        "edgeBetweenness": 2.666667,
+        "endpoints": [
+          "n5",
+          "n7"
+        ],
+        "key": "n5\u0001n7",
+        "parallelCount": 3,
+        "periods": [
+          1,
+          3,
+          4
+        ],
+        "recordIds": [
+          "r0017",
+          "r0053",
+          "r0089"
+        ],
+        "relations": [
+          "cooperation"
+        ],
+        "topologicalBridge": false
+      },
+      {
+        "communities": [
+          "C01",
+          "C02"
+        ],
+        "edgeBetweenness": 2.666667,
+        "endpoints": [
+          "n6",
+          "n8"
+        ],
+        "key": "n6\u0001n8",
+        "parallelCount": 3,
+        "periods": [
+          1,
+          3,
+          4
+        ],
+        "recordIds": [
+          "r0018",
+          "r0054",
+          "r0090"
+        ],
+        "relations": [
+          "supply"
+        ],
+        "topologicalBridge": false
+      },
+      {
+        "communities": [
+          "C01",
+          "C02"
+        ],
+        "edgeBetweenness": 1.666667,
+        "endpoints": [
+          "n0",
+          "n1"
+        ],
+        "key": "n0\u0001n1",
+        "parallelCount": 3,
+        "periods": [
+          1,
+          2,
+          4
+        ],
+        "recordIds": [
+          "r0000",
+          "r0036",
+          "r0072"
+        ],
+        "relations": [
+          "supply"
+        ],
+        "topologicalBridge": false
+      },
+      {
+        "communities": [
+          "C01",
+          "C02"
+        ],
+        "edgeBetweenness": 1.666667,
+        "endpoints": [
+          "n6",
+          "n7"
+        ],
+        "key": "n6\u0001n7",
+        "parallelCount": 3,
+        "periods": [
+          1,
+          2,
+          4
+        ],
+        "recordIds": [
+          "r0006",
+          "r0042",
+          "r0078"
+        ],
+        "relations": [
+          "supply"
+        ],
+        "topologicalBridge": false
+      }
+    ],
+    "nodes": [
+      {
+        "community": "C02",
+        "crossCommunityDegree": 3,
+        "crossWeightShare": 0.496479,
+        "degree": 6,
+        "isIsolate": false,
+        "node": "n6",
+        "nodeBetweenness": 2.5,
+        "participation": 0.499975
+      },
+      {
+        "community": "C01",
+        "crossCommunityDegree": 3,
+        "crossWeightShare": 0.478405,
+        "degree": 6,
+        "isIsolate": false,
+        "node": "n0",
+        "nodeBetweenness": 2.5,
+        "participation": 0.499067
+      },
+      {
+        "community": "C01",
+        "crossCommunityDegree": 3,
+        "crossWeightShare": 0.473498,
+        "degree": 6,
+        "isIsolate": false,
+        "node": "n7",
+        "nodeBetweenness": 2.5,
+        "participation": 0.498595
+      },
+      {
+        "community": "C02",
+        "crossCommunityDegree": 3,
+        "crossWeightShare": 0.453441,
+        "degree": 6,
+        "isIsolate": false,
+        "node": "n1",
+        "nodeBetweenness": 2.5,
+        "participation": 0.495665
+      },
+      {
+        "community": "C02",
+        "crossCommunityDegree": 2,
+        "crossWeightShare": 0.345324,
+        "degree": 6,
+        "isIsolate": false,
+        "node": "n2",
+        "nodeBetweenness": 2.5,
+        "participation": 0.452151
+      },
+      {
+        "community": "C02",
+        "crossCommunityDegree": 2,
+        "crossWeightShare": 0.30597,
+        "degree": 6,
+        "isIsolate": false,
+        "node": "n5",
+        "nodeBetweenness": 2.5,
+        "participation": 0.424705
+      },
+      {
+        "community": "C01",
+        "crossCommunityDegree": 2,
+        "crossWeightShare": 0.301418,
+        "degree": 6,
+        "isIsolate": false,
+        "node": "n8",
+        "nodeBetweenness": 2.5,
+        "participation": 0.421131
+      },
+      {
+        "community": "C01",
+        "crossCommunityDegree": 2,
+        "crossWeightShare": 0.263514,
+        "degree": 6,
+        "isIsolate": false,
+        "node": "n11",
+        "nodeBetweenness": 2.5,
+        "participation": 0.388148
+      },
+      {
+        "community": "C01",
+        "crossCommunityDegree": 1,
+        "crossWeightShare": 0.161074,
+        "degree": 6,
+        "isIsolate": false,
+        "node": "n9",
+        "nodeBetweenness": 2.5,
+        "participation": 0.270258
+      },
+      {
+        "community": "C02",
+        "crossCommunityDegree": 1,
+        "crossWeightShare": 0.153846,
+        "degree": 6,
+        "isIsolate": false,
+        "node": "n4",
+        "nodeBetweenness": 2.5,
+        "participation": 0.260355
+      },
+      {
+        "community": "C02",
+        "crossCommunityDegree": 1,
+        "crossWeightShare": 0.133333,
+        "degree": 6,
+        "isIsolate": false,
+        "node": "n3",
+        "nodeBetweenness": 2.5,
+        "participation": 0.231111
+      },
+      {
+        "community": "C01",
+        "crossCommunityDegree": 1,
+        "crossWeightShare": 0.074074,
+        "degree": 6,
+        "isIsolate": false,
+        "node": "n10",
+        "nodeBetweenness": 2.5,
+        "participation": 0.137174
+      },
+      {
+        "community": "C03",
+        "crossCommunityDegree": 0,
+        "crossWeightShare": 0,
+        "degree": 0,
+        "isIsolate": true,
+        "node": "n12",
+        "nodeBetweenness": 0,
+        "participation": 0
+      }
+    ],
+    "topologicalBridgeCount": 0
+  },
+  "communities": {
+    "assignment": [
+      {
+        "community": "C01",
+        "node": "n0"
+      },
+      {
+        "community": "C02",
+        "node": "n1"
+      },
+      {
+        "community": "C01",
+        "node": "n10"
+      },
+      {
+        "community": "C01",
+        "node": "n11"
+      },
+      {
+        "community": "C03",
+        "node": "n12"
+      },
+      {
+        "community": "C02",
+        "node": "n2"
+      },
+      {
+        "community": "C02",
+        "node": "n3"
+      },
+      {
+        "community": "C02",
+        "node": "n4"
+      },
+      {
+        "community": "C02",
+        "node": "n5"
+      },
+      {
+        "community": "C02",
+        "node": "n6"
+      },
+      {
+        "community": "C01",
+        "node": "n7"
+      },
+      {
+        "community": "C01",
+        "node": "n8"
+      },
+      {
+        "community": "C01",
+        "node": "n9"
+      }
+    ],
+    "chosen": [
+      {
+        "community": "C01",
+        "isIsolateCommunity": false,
+        "members": [
+          "n0",
+          "n10",
+          "n11",
+          "n7",
+          "n8",
+          "n9"
+        ],
+        "size": 6
+      },
+      {
+        "community": "C02",
+        "isIsolateCommunity": false,
+        "members": [
+          "n1",
+          "n2",
+          "n3",
+          "n4",
+          "n5",
+          "n6"
+        ],
+        "size": 6
+      },
+      {
+        "community": "C03",
+        "isIsolateCommunity": true,
+        "members": [
+          "n12"
+        ],
+        "size": 1
+      }
+    ],
+    "chosenSeed": 11,
+    "consensus": {
+      "communities": [
+        {
+          "community": "C01",
+          "isIsolateCommunity": false,
+          "members": [
+            "n0",
+            "n10",
+            "n11",
+            "n7",
+            "n8",
+            "n9"
+          ],
+          "size": 6
+        },
+        {
+          "community": "C02",
+          "isIsolateCommunity": false,
+          "members": [
+            "n1",
+            "n2",
+            "n3",
+            "n4",
+            "n5",
+            "n6"
+          ],
+          "size": 6
+        },
+        {
+          "community": "C03",
+          "isIsolateCommunity": true,
+          "members": [
+            "n12"
+          ],
+          "size": 1
+        }
+      ],
+      "communityCount": 3
+    },
+    "runs": [
+      {
+        "adjustment": {
+          "merges": [],
+          "splits": []
+        },
+        "communities": [
+          {
+            "community": "C01",
+            "isIsolateCommunity": false,
+            "members": [
+              "n0",
+              "n10",
+              "n11",
+              "n7",
+              "n8",
+              "n9"
+            ],
+            "size": 6
+          },
+          {
+            "community": "C02",
+            "isIsolateCommunity": false,
+            "members": [
+              "n1",
+              "n2",
+              "n3",
+              "n4",
+              "n5",
+              "n6"
+            ],
+            "size": 6
+          },
+          {
+            "community": "C03",
+            "isIsolateCommunity": true,
+            "members": [
+              "n12"
+            ],
+            "size": 1
+          }
+        ],
+        "communityCount": 3,
+        "modularity": 0.19785609244611513,
+        "seed": 11,
+        "targetMet": true
+      },
+      {
+        "adjustment": {
+          "merges": [],
+          "splits": []
+        },
+        "communities": [
+          {
+            "community": "C01",
+            "isIsolateCommunity": false,
+            "members": [
+              "n0",
+              "n10",
+              "n11",
+              "n7",
+              "n8",
+              "n9"
+            ],
+            "size": 6
+          },
+          {
+            "community": "C02",
+            "isIsolateCommunity": false,
+            "members": [
+              "n1",
+              "n2",
+              "n3",
+              "n4",
+              "n5",
+              "n6"
+            ],
+            "size": 6
+          },
+          {
+            "community": "C03",
+            "isIsolateCommunity": true,
+            "members": [
+              "n12"
+            ],
+            "size": 1
+          }
+        ],
+        "communityCount": 3,
+        "modularity": 0.19785609244611513,
+        "seed": 23,
+        "targetMet": true
+      },
+      {
+        "adjustment": {
+          "merges": [],
+          "splits": []
+        },
+        "communities": [
+          {
+            "community": "C01",
+            "isIsolateCommunity": false,
+            "members": [
+              "n0",
+              "n10",
+              "n11",
+              "n7",
+              "n8",
+              "n9"
+            ],
+            "size": 6
+          },
+          {
+            "community": "C02",
+            "isIsolateCommunity": false,
+            "members": [
+              "n1",
+              "n2",
+              "n3",
+              "n4",
+              "n5",
+              "n6"
+            ],
+            "size": 6
+          },
+          {
+            "community": "C03",
+            "isIsolateCommunity": true,
+            "members": [
+              "n12"
+            ],
+            "size": 1
+          }
+        ],
+        "communityCount": 3,
+        "modularity": 0.19785609244611513,
+        "seed": 37,
+        "targetMet": true
+      }
+    ],
+    "seeds": [
+      11,
+      23,
+      37
+    ],
+    "stability": {
+      "pairwise": [
+        [
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1
+        ]
+      ],
+      "pairwiseMean": 1,
+      "pairwiseMin": 1
+    }
+  },
+  "communityConfig": {
+    "resolution": 1,
+    "seeds": [
+      11,
+      23,
+      37
+    ],
+    "targetCommunities": null
+  },
+  "createdAt": "2026-11-13T13:48:31.370Z",
+  "exportPolicy": {
+    "hideAmounts": true
+  },
+  "graphConfig": {
+    "fromPeriod": 1,
+    "nodes": [
+      "n0",
+      "n1",
+      "n2",
+      "n3",
+      "n4",
+      "n5",
+      "n6",
+      "n7",
+      "n8",
+      "n9",
+      "n10",
+      "n11",
+      "n12"
+    ],
+    "parallelPolicy": "sum",
+    "relations": null,
+    "scale": "none",
+    "selfLoops": "report-only",
+    "toPeriod": 6
+  },
+  "graphDigest": {
+    "componentMembers": [
+      [
+        "n0",
+        "n1",
+        "n10",
+        "n11",
+        "n2",
+        "n3",
+        "n4",
+        "n5",
+        "n6",
+        "n7",
+        "n8",
+        "n9"
+      ],
+      [
+        "n12"
+      ]
+    ],
+    "componentSizes": [
+      12,
+      1
+    ],
+    "degreeSequence": [
+      {
+        "degree": 6,
+        "node": "n0"
+      },
+      {
+        "degree": 6,
+        "node": "n1"
+      },
+      {
+        "degree": 6,
+        "node": "n10"
+      },
+      {
+        "degree": 6,
+        "node": "n11"
+      },
+      {
+        "degree": 0,
+        "node": "n12"
+      },
+      {
+        "degree": 6,
+        "node": "n2"
+      },
+      {
+        "degree": 6,
+        "node": "n3"
+      },
+      {
+        "degree": 6,
+        "node": "n4"
+      },
+      {
+        "degree": 6,
+        "node": "n5"
+      },
+      {
+        "degree": 6,
+        "node": "n6"
+      },
+      {
+        "degree": 6,
+        "node": "n7"
+      },
+      {
+        "degree": 6,
+        "node": "n8"
+      },
+      {
+        "degree": 6,
+        "node": "n9"
+      }
+    ],
+    "edgeCount": 36,
+    "nodeCount": 13,
+    "selfLoopAmountsRemoved": true,
+    "selfLoopCount": 0,
+    "selfLoopsExcludedFromTopology": 0,
+    "totalWeight": null,
+    "weightMultisetFingerprint": null,
+    "windowRecordCount": 96
+  },
+  "inputFingerprint": "15640e910c8bbadc6233a87280671ef3af5fffa59f1d0a98c6c24376950a1340",
+  "nullConfig": {
+    "allowCrossComponent": false,
+    "degreeSequence": [
+      {
+        "degree": 6,
+        "node": "n0"
+      },
+      {
+        "degree": 6,
+        "node": "n1"
+      },
+      {
+        "degree": 6,
+        "node": "n10"
+      },
+      {
+        "degree": 6,
+        "node": "n11"
+      },
+      {
+        "degree": 0,
+        "node": "n12"
+      },
+      {
+        "degree": 6,
+        "node": "n2"
+      },
+      {
+        "degree": 6,
+        "node": "n3"
+      },
+      {
+        "degree": 6,
+        "node": "n4"
+      },
+      {
+        "degree": 6,
+        "node": "n5"
+      },
+      {
+        "degree": 6,
+        "node": "n6"
+      },
+      {
+        "degree": 6,
+        "node": "n7"
+      },
+      {
+        "degree": 6,
+        "node": "n8"
+      },
+      {
+        "degree": 6,
+        "node": "n9"
+      }
+    ],
+    "maxAttemptsPerSwap": 1000,
+    "method": "double-edge-swap",
+    "minSwaps": 360,
+    "realizations": 100,
+    "seedBase": 7919,
+    "swapMultiplier": 10,
+    "weightPolicy": "reshuffle"
+  },
+  "nullModel": {
+    "config": {
+      "allowCrossComponent": false,
+      "degreeSequence": [
+        {
+          "degree": 6,
+          "node": "n0"
+        },
+        {
+          "degree": 6,
+          "node": "n1"
+        },
+        {
+          "degree": 6,
+          "node": "n10"
+        },
+        {
+          "degree": 6,
+          "node": "n11"
+        },
+        {
+          "degree": 0,
+          "node": "n12"
+        },
+        {
+          "degree": 6,
+          "node": "n2"
+        },
+        {
+          "degree": 6,
+          "node": "n3"
+        },
+        {
+          "degree": 6,
+          "node": "n4"
+        },
+        {
+          "degree": 6,
+          "node": "n5"
+        },
+        {
+          "degree": 6,
+          "node": "n6"
+        },
+        {
+          "degree": 6,
+          "node": "n7"
+        },
+        {
+          "degree": 6,
+          "node": "n8"
+        },
+        {
+          "degree": 6,
+          "node": "n9"
+        }
+      ],
+      "maxAttemptsPerSwap": 1000,
+      "method": "double-edge-swap",
+      "minSwaps": 360,
+      "realizations": 100,
+      "seedBase": 7919,
+      "swapMultiplier": 10,
+      "weightPolicy": "reshuffle"
+    },
+    "diagnostics": {
+      "meanAttemptsPerValidRealization": 1702.27,
+      "meanSuccessfulSwaps": 360
+    },
+    "globalTests": {
+      "observedCrossEdgeCount": 12,
+      "pCrossEdgeCount": 0.970297
+    },
+    "invalidCount": 0,
+    "invalidReasons": {},
+    "minValidRealizations": 50,
+    "nodeTests": [
+      {
+        "fdrCrossDegree": 1,
+        "node": "n7",
+        "observedCrossCommunityDegree": 3,
+        "observedNodeBetweenness": 2.5,
+        "observedParticipation": 0.498595,
+        "pCrossDegree": 0.257426,
+        "pNodeBetweenness": 0.485149,
+        "pParticipation": 0.089109
+      },
+      {
+        "fdrCrossDegree": 1,
+        "node": "n0",
+        "observedCrossCommunityDegree": 3,
+        "observedNodeBetweenness": 2.5,
+        "observedParticipation": 0.499067,
+        "pCrossDegree": 0.306931,
+        "pNodeBetweenness": 0.564356,
+        "pParticipation": 0.079208
+      },
+      {
+        "fdrCrossDegree": 1,
+        "node": "n6",
+        "observedCrossCommunityDegree": 3,
+        "observedNodeBetweenness": 2.5,
+        "observedParticipation": 0.499975,
+        "pCrossDegree": 0.336634,
+        "pNodeBetweenness": 0.50495,
+        "pParticipation": 0.019802
+      },
+      {
+        "fdrCrossDegree": 1,
+        "node": "n1",
+        "observedCrossCommunityDegree": 3,
+        "observedNodeBetweenness": 2.5,
+        "observedParticipation": 0.495665,
+        "pCrossDegree": 0.346535,
+        "pNodeBetweenness": 0.60396,
+        "pParticipation": 0.207921
+      },
+      {
+        "fdrCrossDegree": 1,
+        "node": "n8",
+        "observedCrossCommunityDegree": 2,
+        "observedNodeBetweenness": 2.5,
+        "observedParticipation": 0.421131,
+        "pCrossDegree": 0.80198,
+        "pNodeBetweenness": 0.514851,
+        "pParticipation": 0.623762
+      },
+      {
+        "fdrCrossDegree": 1,
+        "node": "n11",
+        "observedCrossCommunityDegree": 2,
+        "observedNodeBetweenness": 2.5,
+        "observedParticipation": 0.388148,
+        "pCrossDegree": 0.841584,
+        "pNodeBetweenness": 0.613861,
+        "pParticipation": 0.831683
+      },
+      {
+        "fdrCrossDegree": 1,
+        "node": "n2",
+        "observedCrossCommunityDegree": 2,
+        "observedNodeBetweenness": 2.5,
+        "observedParticipation": 0.452151,
+        "pCrossDegree": 0.871287,
+        "pNodeBetweenness": 0.49505,
+        "pParticipation": 0.445545
+      },
+      {
+        "fdrCrossDegree": 1,
+        "node": "n5",
+        "observedCrossCommunityDegree": 2,
+        "observedNodeBetweenness": 2.5,
+        "observedParticipation": 0.424705,
+        "pCrossDegree": 0.90099,
+        "pNodeBetweenness": 0.594059,
+        "pParticipation": 0.683168
+      },
+      {
+        "fdrCrossDegree": 1,
+        "node": "n3",
+        "observedCrossCommunityDegree": 1,
+        "observedNodeBetweenness": 2.5,
+        "observedParticipation": 0.231111,
+        "pCrossDegree": 0.990099,
+        "pNodeBetweenness": 0.574257,
+        "pParticipation": 0.960396
+      },
+      {
+        "fdrCrossDegree": 1,
+        "node": "n10",
+        "observedCrossCommunityDegree": 1,
+        "observedNodeBetweenness": 2.5,
+        "observedParticipation": 0.137174,
+        "pCrossDegree": 1,
+        "pNodeBetweenness": 0.584158,
+        "pParticipation": 1
+      },
+      {
+        "fdrCrossDegree": 1,
+        "node": "n12",
+        "observedCrossCommunityDegree": 0,
+        "observedNodeBetweenness": 0,
+        "observedParticipation": 0,
+        "pCrossDegree": 1,
+        "pNodeBetweenness": 1,
+        "pParticipation": 1
+      },
+      {
+        "fdrCrossDegree": 1,
+        "node": "n4",
+        "observedCrossCommunityDegree": 1,
+        "observedNodeBetweenness": 2.5,
+        "observedParticipation": 0.260355,
+        "pCrossDegree": 1,
+        "pNodeBetweenness": 0.524752,
+        "pParticipation": 0.891089
+      },
+      {
+        "fdrCrossDegree": 1,
+        "node": "n9",
+        "observedCrossCommunityDegree": 1,
+        "observedNodeBetweenness": 2.5,
+        "observedParticipation": 0.270258,
+        "pCrossDegree": 1,
+        "pNodeBetweenness": 0.50495,
+        "pParticipation": 0.891089
+      }
+    ],
+    "reason": null,
+    "valid": true,
+    "validCount": 100
+  },
+  "selfLoops": []
+}

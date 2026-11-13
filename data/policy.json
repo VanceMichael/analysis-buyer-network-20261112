@@ -2,12 +2,23 @@
   "fromPeriod": 1,
   "toPeriod": 6,
   "resolution": 1,
+  "targetCommunities": null,
   "seeds": [
     11,
     23,
     37
   ],
   "hideAmounts": true,
+  "parallelPolicy": "sum",
+  "scale": "none",
+  "selfLoops": "report-only",
+  "relations": null,
+  "nullRealizations": 100,
+  "swapMultiplier": 10,
+  "maxAttemptsPerSwap": 1000,
+  "allowCrossComponentSwaps": false,
+  "nullWeightPolicy": "reshuffle",
+  "nullSeedBase": 7919,
   "nodes": [
     "n0",
     "n1",

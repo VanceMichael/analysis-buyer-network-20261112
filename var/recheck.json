@@ -1,0 +1,72 @@
+{
+  "archiveFingerprint": "64968687ff4ae7bc17e5ebdac85f3a8325282568d37205f79d694b86b5078c77",
+  "checks": [
+    {
+      "detail": "archive=1 expected=1",
+      "name": "archiveVersion",
+      "pass": true
+    },
+    {
+      "detail": "原始记录指纹与档案一致",
+      "name": "inputFingerprint",
+      "pass": true
+    },
+    {
+      "detail": "逐节点度序列一致",
+      "name": "degreeSequence",
+      "pass": true
+    },
+    {
+      "detail": "连通分量大小序列一致",
+      "name": "componentSizes",
+      "pass": true
+    },
+    {
+      "detail": "连通分量成员一致",
+      "name": "componentMembers",
+      "pass": true
+    },
+    {
+      "detail": "自环数量 rebuilt=0 archive=0",
+      "name": "selfLoops",
+      "pass": true
+    },
+    {
+      "detail": "社群成员集合一致（3 群）",
+      "name": "communityPartition",
+      "pass": true
+    },
+    {
+      "detail": "种子集合一致",
+      "name": "stabilitySeeds",
+      "pass": true
+    },
+    {
+      "detail": "成对 ARI 稳定性矩阵逐位复现",
+      "name": "stabilityMatrix",
+      "pass": true
+    },
+    {
+      "detail": "跨社群边追溯到的原始记录 id 集合一致",
+      "name": "crossEdgeRecordIds",
+      "pass": true
+    },
+    {
+      "detail": "拓扑割边数 rebuilt=0",
+      "name": "topologicalBridges",
+      "pass": true
+    },
+    {
+      "detail": "valid=100/100",
+      "name": "nullEnsembleValidity",
+      "pass": true
+    },
+    {
+      "detail": "零模型无效原因分布一致",
+      "name": "nullDiagnostics",
+      "pass": true
+    }
+  ],
+  "pass": true,
+  "recomputedFingerprint": "15640e910c8bbadc6233a87280671ef3af5fffa59f1d0a98c6c24376950a1340"
+}

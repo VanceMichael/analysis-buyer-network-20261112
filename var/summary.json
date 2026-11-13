@@ -1,0 +1,20 @@
+{
+  "count": 96,
+  "groupBy": "relation",
+  "groups": [
+    {
+      "count": 48,
+      "key": "cooperation",
+      "nodes": 12,
+      "sum": 846
+    },
+    {
+      "count": 48,
+      "key": "supply",
+      "nodes": 12,
+      "sum": 849
+    }
+  ],
+  "inputFingerprint": "15640e910c8bbadc6233a87280671ef3af5fffa59f1d0a98c6c24376950a1340",
+  "valueField": "amount"
+}
